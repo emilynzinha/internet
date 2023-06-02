@@ -1,16 +1,26 @@
-.Cabecalho {width: 600px;
-    padding: 10px;
-    background-color: chocolate;  
-    font-size: 24px;
-    margin: 2px;
-}
-.Corpo {width: 600px;
-    padding: 10px;
-    background-color: coral;
+.cabecalho{
+    width: auto;
+    padding: 20px;;
+    color: black;
     text-align: center;
+    font-size:xx-large;
+    background-color: rgb(245, 230, 208); 
+
 }
-.Rodape {width: 6000px;
-    padding: 10px;
-    background-color: blue;
+.conteudo{
+    width: auto;
+    padding:300px;;
+    color: black;
     text-align: center;
+    font-size:xx-large;
+}
+
+
+.rodape{
+    width: auto;
+    padding:20px;
+    color: black;
+    text-align: center;
+    font-size:xx-large;
+    background-color:darkgray;   
 }
